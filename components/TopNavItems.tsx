@@ -14,12 +14,12 @@ const links: Links = [
     to: "/",
   },
   {
-    name: "ajustes",
-    to: "/ajustes",
+    name: "Menu",
+    to: "/menu",
   },
   {
-    name: "configuración",
-    to: "/config",
+    name: "ajustes",
+    to: "/ajustes",
   },
 ];
 
